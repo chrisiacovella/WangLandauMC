@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:compile.sh">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "bindings">
+      <FileRef
+         location = "group:WL.i">
+      </FileRef>
+      <FileRef
+         location = "group:initialize.i">
+      </FileRef>
+      <FileRef
+         location = "group:system_config.i">
+      </FileRef>
+      <FileRef
+         location = "group:random.i">
+      </FileRef>
+      <FileRef
+         location = "group:typedefs.i">
+      </FileRef>
+      <FileRef
+         location = "group:pair_LJ.i">
+      </FileRef>
+      <FileRef
+         location = "group:neighbor.i">
+      </FileRef>
+      <FileRef
+         location = "group:io.i">
+      </FileRef>
+      <FileRef
+         location = "group:metropolis.i">
+      </FileRef>
+      <FileRef
+         location = "group:flatness.i">
+      </FileRef>
+      <FileRef
+         location = "group:histogram.i">
+      </FileRef>
+      <FileRef
+         location = "group:wanglandau.i">
+      </FileRef>
+      <FileRef
+         location = "group:average.i">
+      </FileRef>
+      <FileRef
+         location = "group:energy.i">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:typedefs.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:initialize.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:initialize.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:system_config.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:system_config.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:WL.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:WL.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:random.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:random.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:pair_LJ.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:neighbor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:neighbor.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:energy.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:energy.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:io.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:io.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:metropolis.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:metropolis.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:average.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:average.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:flatness.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:flatness.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:histogram.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:histogram.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:wanglandau.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:wanglandau.cpp">
+   </FileRef>
+</Workspace>

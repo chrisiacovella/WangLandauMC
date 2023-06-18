@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:energy.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:calc_cv.py">
+   </FileRef>
+   <FileRef
+      location = "group:compile.sh">
+   </FileRef>
+   <FileRef
+      location = "group:flatness.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:histogram.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:initialize.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:io.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:main.h">
+   </FileRef>
+   <FileRef
+      location = "group:metropolis.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:neighbor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:pair_LJ.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:wanglandau.hpp">
+   </FileRef>
+</Workspace>
